@@ -1,0 +1,31 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #f9f1f1;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.content {
+    background-color: #ffe6ed;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    color: #ff66a3;
+}
+
+p {
+    font-family: 'Press Start 2P', cursive;
+    color: #ff66a3;
+}
+
+video {
+    width: 100%;
